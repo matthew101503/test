@@ -5,7 +5,7 @@ public class account {
 	//New comment for balance.
 		private double balance;
 		private String name;
-		// Constructor
+		
 		public account(double balance) {
 			this("Unknown", balance);
 		}
